@@ -33,4 +33,5 @@ The dataset used in this project contains loan details and performance collected
    * Unemployed and part - time applicants show higher default risk , indicating employment type as a key risk indicator .
    * Home loans contribute the highest the total loan amount , indicating strong demand for long - term secured loans .
    * Middle-aged peoples have highest avg income , reflecting stable income and higher financial commitments .
+   * Full-time employees earn the highest avg income , making them financially stable and and also have lowest default rate making them least risky borrower segment . 
   
