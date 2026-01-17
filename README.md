@@ -33,5 +33,24 @@ The dataset used in this project contains loan details and performance collected
    * Unemployed and part - time applicants show higher default risk , indicating employment type as a key risk indicator .
    * Home loans contribute the highest the total loan amount , indicating strong demand for long - term secured loans .
    * Middle-aged peoples have highest avg income , reflecting stable income and higher financial commitments .
-   * Full-time employees earn the highest avg income , making them financially stable and and also have lowest default rate making them least risky borrower segment . 
-  
+   * Full-time employees earn the highest avg income , making them financially stable and and also have lowest default rate making them least risky borrower segment .
+#### Page 2 : Applicant Financial Demographic and Profile
+![Page2](https://github.com/deepak7967/Loan-Data-Analysis/blob/main/Page2.png)
+- Insights
+   * Married applicants generally take higher average loans compared to single applicants , especially in middle-age groups .
+   * Borrowers with very low and low credit scores account for a large share of total loan amount .
+   * Adults and middle-aged applicants dominate the loan distribution .
+   * Applicants with a Bachelor's degree have the highest number of loans , suggesting higher credit participation at this education level .
+#### Page 3 : Financial Risk Metrics
+![Page 3](https://github.com/deepak7967/Loan-Data-Analysis/blob/main/Page3.png)
+ - Insights
+   * Borrowers with high DTI ratios record the highest number of defaults , confirming DTI as a critical risk metric .
+   * High-income and full-time employed applicants contribute the largest share of total loan amount indicating higher loan capacity .
+   * Combining DTI ratio,credit score,and employment type helps clearly identify high-risk borrower segments .
+## Future Enhancements 
+ - Add predictive model for default risk 
+ - Add intrective slicers & drill-through pages
+ - Include machine learning-based risk scoring
+### Author
+Deepak kumar
+Aspiring Data Analyst
