@@ -28,5 +28,5 @@ The dataset used in this project contains loan details and performance collected
    - Excel - CSV Data and for validation
 ## Dashboard Pages & Insights
 #### Page 1 : Loan Data Overview
-https://github.com/deepak7967/Loan-Data-Analysis/blob/main/Page1.png
+![Page1](https://github.com/deepak7967/Loan-Data-Analysis/blob/main/Page1.png)
   
