@@ -29,4 +29,8 @@ The dataset used in this project contains loan details and performance collected
 ## Dashboard Pages & Insights
 #### Page 1 : Loan Data Overview
 ![Page1](https://github.com/deepak7967/Loan-Data-Analysis/blob/main/Page1.png)
+- Insights
+   * Unemployed and part - time applicants show higher default risk , indicating employment type as a key risk indicator .
+   * Home loans contribute the highest the total loan amount , indicating strong demand for long - term secured loans .
+   * Middle-aged peoples have highest avg income , reflecting stable income and higher financial commitments .
   
