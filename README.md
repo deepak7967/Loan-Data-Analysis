@@ -51,6 +51,6 @@ The dataset used in this project contains loan details and performance collected
  - Add predictive model for default risk 
  - Add intrective slicers & drill-through pages
  - Include machine learning-based risk scoring
-### Author
-Deepak kumar
+#### Author
+Deepak kumar<br>
 Aspiring Data Analyst
