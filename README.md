@@ -1,7 +1,7 @@
 # Loan Data Analysis & Financial Risk Dashboard (Power BI)
 
 ## Project Overview
-This project involves building an interactive Default Loan Data Analysis and Financial Risk Dashboard using Power BI with a strong focus on data modeling , DAX calculations , and financial risk analysis  to understand
+This project involves building an interactive Default Loan Data Analysis and Financial Risk Dashboard using Power BI contains 3 pages report with a strong focus on data modeling , DAX calculations , and financial risk analysis  to understand
 customer behavior , financial demographics,loan performance, and credit risk . It provides insights that can help financial institutions make better lending and risk management dcisions .
 ## Objectives 
 - Analyze loan distribution across different purpose , age groups , and credit categories
