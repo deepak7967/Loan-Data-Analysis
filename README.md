@@ -32,7 +32,7 @@ The dataset used in this project contains loan details and performance collected
    - Excel - CSV Data and for validation
 ## Dashboard Pages & Insights
 #### Page 1 : Loan Data Overview
-![Page1](https://github.com/deepak7967/Loan-Data-Analysis/blob/main/Page1.png)
+![1st_page](https://github.com/deepak7967/Loan-Data-Analysis/blob/main/1st_page.png)
 - Insights
    * YOY Loan Amount Change — Peaked in 2015 (+1.3%), declined in 2014 (−1.5%) and 2017 (−1.1%), recovered strongly to +1.3% in 2018 .
    *  Unemployed and part - time applicants show higher default risk , indicating employment type as a key risk indicator .
