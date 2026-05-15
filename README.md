@@ -42,6 +42,7 @@ The dataset used in this project contains loan details and performance collected
    * YOY Loan Amount Change — Peaked in 2015 (+1.3%), declined in 2014 (−1.5%) and 2017 (−1.1%), recovered strongly to +1.3% in 2018 .
 
 #### Page 2 : Applicant Financial Demographic and Profile
+![2nd_page](https://github.com/deepak7967/Loan-Data-Analysis/blob/main/2nd_page.png)
 - Insights
    * Married applicants generally take higher average loans compared to single applicants , especially in middle-age groups .
    * Borrowers with very low and low credit scores account for a large share of total loan amount .
