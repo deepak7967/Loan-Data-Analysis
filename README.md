@@ -1,4 +1,4 @@
-# Loan Data Analysis & Financial Risk Dashboard (Power BI)
+# Loan Default Risk Analysis | Azure SQL · Power BI
 
 ## Project Overview
 This project analyzes 255,347 loan records to help financial institutions identify default risk patterns and understand borrower behavior. Data was stored and managed on Azure SQL Server, cleaned using Power Query, and visualized through a two-page Power BI dashboard covering overall loan performance and applicant demographic profiling. Custom DAX measures were built to track Year-over-Year loan trends, default rates, and segment-level loan distributions. and financial risk analysis  to understand
